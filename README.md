@@ -38,3 +38,6 @@
   * Functional programming turns up a lot in the guide, and it's something I've been looking into on my own for a while. I get a lot of the concepts in theory, but haven't put the time in yet to get a practical understanding. On the todo list are a couple functional programming languages that turn up as being good at things I want to do in my career (Clojure and Lisp being the standouts).
 
 1:00 PM -- start Machine Learning class.
+
+[Why is machine learning in finance so hard?](https://www.hardikp.com/2018/02/11/why-is-machine-learning-in-finance-so-hard/)
+  * blog post I found while old-school internet surfing. 
